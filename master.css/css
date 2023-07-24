@@ -1,8 +1,0 @@
-
-h1 {
-    color: red;
-    font-size: 40px; 
-    font-weight: bolder;
-    margin: 20px auto;
-}
-    
